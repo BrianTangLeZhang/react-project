@@ -152,11 +152,11 @@ export default function EditForm() {
                   <MenuItem value="Home & Personal Items">
                     Home & Personal Items
                   </MenuItem>
-                  <MenuItem value="Leisure/Sports/Hobbies">
-                    Leisure/Sports/Hobbies
+                  <MenuItem value="Sports">
+                    Sports
                   </MenuItem>
-                  <MenuItem value="Business To Business">
-                    Business To Business
+                  <MenuItem value="Clothing">
+                    Clothing
                   </MenuItem>
                   <MenuItem value="Others">Others</MenuItem>
                 </TextField>
